@@ -1,8 +1,8 @@
-# File of spy   
 
 ![spy](http://cfile10.uf.tistory.com/image/25277B39567CD8152D1653)
-   
-   # File of spy
+
+# File of spy   
+
 
    * File of spy is Android shooting game. User play game use by gyro sensor in android device.
    * First, user should avoid enemy to go as far as possible.
